@@ -56,57 +56,57 @@ const modalContent = [
   },
   // 10
   {
-    title: "Cuide de você e dos outros",
-    text: "A arte de cuidar começa dentro da gente. Entenda como estar bem consigo mesmo impacta a todos ao seu redor. Quer cuidar melhor de si e do próximo? Então, vem ver nossas dicas!",
-    link: "#" // Não foi fornecido o link específico
-  },
-  // 11
-  {
     title: "E a tal da empatia?",
     text: "Quantas realidades podem existir? Para além da nossa realidade, existem muitas outras. A empatia pode ser descrita como “a arte de se colocar no lugar do outro para transformar o mundo”. Praticar é o caminho, que tal darmos o primeiro passo?",
     link: "https://academiavtalentos.echo.timetoknow.com/#/$/library/channel/2fe55202-dfbf-43fd-9b0a-8a4ce981c51a/E%20a%20tal%20da%20empatia%3F?levelIds=MzhlMThiZjYtNDViMy00ZDRlLTk4MzQtMWE2NzkzYmI4ODIwLGY4YTQ4ZTAzLThiZDItMmQ3Yy1lNGUyLTEyZGM1NjU4ODIyOCxjNzY2ZTk1Zi1mMjI0LTMxNjMtNjUxMC1mN2U2YmI4Yzc1YmY="
   },
-  // 12
+  // 11
   {
     title: "Como equilibrar os pratos?",
     text: "Quem mais gostaria que o dia tivesse 48 horas? Bem, provavelmente a quantidade de tarefas e pressões se acumulariam e a tal procrastinação aumentaria. Vem com a gente se aprofundar em gestão do tempo e o equilíbrio do foco para entregar o que você precisa.",
     link: "https://academiavtalentos.echo.timetoknow.com/#/$/library/channel/640d2da3-3b21-4a2b-9d95-480f46cdc1cd/Como%20equilibrar%20os%20pratos%3F?levelIds=ODEzNjRjYzgtMjcxZC01MDQxLWY3MmMtMjQ1MTRmZTMyMGYzLGFlN2I0ZTI3LWZlYjYtNTMzOS0yZmVhLTY2M2MwNGVkMjNlOSwxNmYzMTU0ZC1mMGZhLTBhMGQtOTE0Mi1lNjg4ZjhhOTczNWQ="
   },
-  // 13
+  // 12
   {
     title: "Inspira, respira e não pira",
     text: "O que fazer com a temida e popular “ansiedade”? Talvez essa seja uma daquelas perguntas sem respostas, mas preparamos um conteúdo potente para apoiar você na identificação do que está ou não em seu controle. Respira e dê o play!",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/7f0e2aa0-8b5e-4a29-820e-2d86092d7cee/Inspira%2C%20respira%20e%20n%C3%A3o%20pira?levelIds=YTExMWRkOTktMWE0ZC00MGE5LWJmYmItNWMzNGExNzc2ZWUyLGE2OGYzOGY3LTE5YjEtNGM1Ny1iYzQ5LWY5MThhMzkzYWM4MyxiMzY4Mzc3NC03M2I1LTRlZWQtOGI3Yy1mM2Y2ZjI5YmQzODQ="
   },
-  // 14
+  // 13
   {
     title: "Como descobrir no que mando bem?",
     text: "Se conhecer é a melhor coisa que você pode fazer por você e por todos ao seu redor. Preparamos um conteúdo bacana para guiar seu entendimento sobre você, sobre seu entorno e sobre o mundo. Tem até teste de personalidade, vem conferir.",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/47feafed-d60b-4b71-a5ab-1e201125d8a2/Como%20descobrir%20no%20que%20mando%20bem%3F?levelIds=NDNhY2Q3NjQtOTExYy00MjNmLWFhODEtNTBiMjMxNWY5YWVjLDBmNTBiYjc3LTI4NGMtNGMyOS1iMjBiLTVlYTI3NTgwYzIzZCxkMjIxYTY2OC1hMWZhLTQwM2YtODMxNC05YmRlNWY2NWFlMTU="
   },
-  // 15
+  // 14
   {
     title: "Olhar pra dentro e pra frente",
     text: "Sabia que a emoção é uma manifestação corporal? Pois é! Emoções geram comportamentos que geram hábitos. Na inteligência emocional aprendemos a fazer a gestão das emoções que nos cercam o tempo todo. Esse tá bom demais!",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/8fb591bc-f740-417a-b333-8d423b961840/Olhar%20para%20dentro%20e%20para%20frente?levelIds=MTRjZWVhMTQtOTViYS00YjZlLWFlYjktYjFmYzEyNTk4MjViLDE3MGJhY2NhLTk2MzUtNDFlZS04ZWYyLTk4MzdkNWFmZjljNiw4OGM3YzU1MC0yYjc2LTQ1NjQtYTVlMC1mNDFiOGExOGY1NzY="
   },
-  // 16
+  // 15
   {
     title: "Ferramentas para mandar bem",
     text: "Dominar ferramentas poderosas pode simplificar sua rotina e te levar mais longe. Trazemos dicas diretas e retas sobre as principais ferramentas do pacote office. Tem dica de Word, PowerPoint, e-mail e Teams, além de materiais super importantes para aprofundar seu aprendizado.",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/b468b3fb-e498-4651-97f5-3f2367aa0f9a/Ferramentas%20para%20Mandar%20Bem?levelIds=NjUxZTcxNzctOWNmZC00MTU1LWJiNjItNzJkYzg0ZTI3MzIwLDhhNWJlMzE1LTNjMzAtNGM4OC1hOGVmLWVkMmNhNTdiMGFkZSwzZDE1NGZhNC0zYzI0LTRjZjctOTA1NS1mMmNlMDNlMTNiMGI="
   },
-  // 17
+  // 16
   {
     title: "A IA Vai dominar o mundo?",
     text: "Você vai mergulhar no universo da Inteligência Artificial muito além do ChatGPT. Vai aprender ferramentas básicas, intermediárias e avançadas para otimizar seu tempo e focar sua criatividade no que merece mais concentração.",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/d731f6e6-f36f-496b-9984-07aa31f65eed/A%20IA%20Vai%20Dominar%20o%20Mundo%3F?levelIds=NzMzNmI0NmMtNWIyMi00NzYwLWFjYzMtY2M1NzkwODNjMTg5LDdlMjE4MDU4LTk3OWEtNDg3Ny05OWRiLTFiYzNhYzYwMzQ4YSwwMmFhNjAwMi04NmM3LTQ1ZDAtOTEzNC02NmFjZjMwMTI0NWQsY2I5ZjgxOWMtN2NkNC00M2M1LTg5ZWUtYjZkOTE1NDIxZjk4"
   },
-  // 18
+  // 17
   {
     title: "Papo Geek | Algoritmos e Programação",
     text: "Você sabia que tem algoritmo até mesmo no seu microfone? E que esse papo de conecta com a época de “Alexandre, O Grande” há mais de 300 a.C? Esse videocast traz uma “fera” da tecnologia da Vivo: Henrique Eduardo Souza que é palestrante, professor e “Architect Manager”. Vem!",
     link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/f42fab2f-8816-4610-bd26-73b14154580d/Papo%20Geek%20%7C%20Algoritmos%20e%20Programa%C3%A7%C3%A3o?levelIds=MzQ5MGM2NTktM/DRkYi00OTdhLTlhNWItM2U5NDU0Y2NjMjY0LDE0NDg4ODY4LTA2MjgtNGM5Zi05MGU0LWI0ZmFhMzFlZmE3NCw2YmEyMDlhNi05OWZjLTQ4NWMtOGNjNC0wMDE2NWZlN2VhN2IsMjA5MzI2ZjUtM2EzYS00ODNhLWFkYTItNDQ5MWE5MTVlZmU1"
+  },
+  // 18
+  {
+    title: "Agilizados para o futuro",
+    text: "“Agilizar” é um verbo que confere velocidade, rapidez e é óbvio que esse ritmo é importante na rotina e que tem método para isso. Já ouviu bastante sobre o método ágil, né? A gente te conta de forma “rápida e ágil” como surgiu o movimento e as principais vantagens.",
+    link: "https://academiavtalentos.echo.timetoknow.com/index.html#/$/library/channel/3739601c-1b11-4bee-b219-9a4d4706091b/Agilizados%20para%20o%20Futuro%20do%20Trabalho?levelIds=MDEzMjEzODktYzk5Mi00MWM0LWIwYzYtZDFmMzNlNzM4MGU4LGZmZDMzNTY4LTk4NjQtNDIyMC04ZWUwLTBhZjk0MTI0N2M2NSw3MzAxODg1ZS1iMGMzLTQ1YjYtOGQyYy0yNDMwMmE2YmU3ZWM=",
   }
 ];
 
