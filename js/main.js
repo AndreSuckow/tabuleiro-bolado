@@ -124,6 +124,12 @@ document.querySelectorAll(".thumbnail").forEach((thumbnail, index) => {
     modalTitle.textContent = content.title;
     modalText.textContent = content.text;
     modalLink.href = content.link;
+    modalLink.style.textDecoration = "none";
+    modalLink.style.color = "var(--roxo)"
+    modalLink.style.padding = "7px 15px"
+    modalLink.style.borderRadius = "10px"
+    modalLink.style.border = "solid 2px"
+    modalLink.style.fontFamily = "vivoTypeBold"
     modal.style.display = "block";
   });
 });

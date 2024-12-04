@@ -28,7 +28,6 @@ body {
   position: absolute;
   width: 10%;
   clip-path: polygon(2% 43%, 53% 97%, 100% 56%, 52% 0);
-  border: solid 0.1px red;
 }
 
 .thumbnail-2 {
@@ -61,20 +60,24 @@ body {
 }
 
 #modal-title {
-  color: red;
+  font-family: vivoTypeBold;
+  color: var(--roxo);
+  font-size: 48px;
 }
 
 #modal-text {
-  color: blue;
+  font-family: vivoTypeRegular;
+  color: black;
 }
 
 .modal-content {
-  background-color: #fff;
+  background-color: #e7e6e6;
   margin: 10% auto;
   padding: 20px;
   border-radius: 8px;
   width: 50%;
   position: relative;
+  opacity: 0.8;
 }
 .close {
   position: absolute;
@@ -82,4 +85,6 @@ body {
   top: 10px;
   font-size: 24px;
   cursor: pointer;
+  color: var(--roxo);
+  font-size: xxx-large;
 }

@@ -78,4 +78,4 @@ function mobileAndTabletCheck() {
   isMobile = check;
   return check;
 }
-// calcScale();
+calcScale();
