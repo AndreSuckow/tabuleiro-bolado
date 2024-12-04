@@ -3,26 +3,50 @@ body, html {
   margin: 0;
 }
 
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .main {
-  /* background-image: url(../img/bg.png); */
-  /* background-size: contain; */
-  /* background-position: center center;
-  background-repeat: no-repeat; */
-  height: 100%;
+  background-image: url(../img/bg.png);
+  background-size: contain;
+  background-position: center center;
+  background-repeat: no-repeat;
   width: 100%;
+  max-width: 1690px;
+  max-height: 100%;
+  aspect-ratio: 16 / 9;
   position: relative;
 }
 
-.main .bg {
-  aspect-ratio: 16 / 9;
-}
-
 .thumbnail-1 {
-  top: 30vh;
+  top: 31%;
   left: 25%;
   cursor: pointer;
   position: absolute;
-  width: 10vw;
+  width: 10%;
+  clip-path: polygon(2% 43%, 53% 97%, 100% 56%, 52% 0);
+  border: solid 0.1px red;
+}
+
+.thumbnail-2 {
+  top: 39.2%;
+  left: 29.7%;
+  cursor: pointer;
+  position: absolute;
+  width: 8.5%;
+  clip-path: polygon(2% 38%, 61% 1%, 78% 22%, 88% 41%, 94% 55%, 98% 72%, 100% 99%, 76% 92%, 45% 79%, 23% 71%, 13% 66%);
+}
+
+.thumbnail-3 {
+  top: 51%;
+  left: 30.8%;
+  cursor: pointer;
+  position: absolute;
+  width: 7.5%;
+  clip-path: polygon(86% 99%, 99% 36%, 94% 30%, 67% 22%, 42% 15%, 21% 7%, 6% 2%, 0% 2%, 1% 18%, 1% 33%, 1% 49%, 1% 58%);
 }
 
 .modal {
